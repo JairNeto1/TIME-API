@@ -1,0 +1,13 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #d9e9db;
+}
+
+#footer-elementos {
+  display: flex !important;
+  justify-content: center !important;
+}
+.rodape {
+  text-align: center !important;
+  margin-bottom: 10px;
+}
